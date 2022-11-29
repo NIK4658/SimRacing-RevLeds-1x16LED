@@ -80,7 +80,7 @@ Check the other version: ([1x8](https://github.com/NIK4658/SimRacing-RevLeds-1x8
 [//]: # (if necessary)
 
 <p class="Electrical Diagram Image" align="center">
-  <img align="center" src="./src/images/sampleImage.png" width="1000">
+  <img align="center" src="./src/images/Wiring%20Diagram/Wiring Diagram.png" width="1000">
 </p>
 
 **Hardware components:**
