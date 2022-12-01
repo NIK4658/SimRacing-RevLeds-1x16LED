@@ -32,7 +32,7 @@ Check the other version: ([1x8](https://github.com/NIK4658/SimRacing-RevLeds-1x8
 
 
 <p class="Project Presentation Image" align="center">
-  <img align="center" src="./src/images/sampleImage.png" width="1000">
+  <img align="center" src="./src/images/Renders/Render3.png" width="1000">
 </p>
 
 ### **Features**
@@ -46,7 +46,7 @@ Check the other version: ([1x8](https://github.com/NIK4658/SimRacing-RevLeds-1x8
 
 **Difficulty:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2/5  ⭐⭐⚫⚫⚫
 
-**Parts needed:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2/5  ⭐⚫⚫⚫⚫
+**Parts needed:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2/5  ⭐⭐⚫⚫⚫
 
 **Cost:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1/5  ⭐⚫⚫⚫⚫
 
@@ -108,14 +108,21 @@ Check the other version: ([1x8](https://github.com/NIK4658/SimRacing-RevLeds-1x8
 
 ## **GALLERY:**
 
-### **RENDER**
+### **RENDERS**
 
 <p class="Single Image Render" align="center">
-  <img align="center" src="./src/images/sampleImage.png" width="1000">
+  <img align="center" src="./src/images/Renders/Render3.png" width="1000">
 </p>
 
+<p class="Double Image Render" align="center">
+  <img align="center" src="./src/images/Renders/Render1.png" width="400">
+  <img align="center" src="./src/images/Renders/Render2.png" width="400">
+</p>
+
+<!--
 ## **IRL (Project Completed)**
 
 <p class="Multiple IRL Images" align="center">
   <img align="center" src="./src/images/sampleImage.png" width="1000">
 </p>
+--!>
