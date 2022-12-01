@@ -62,8 +62,17 @@ Check the other version: ([1x8](https://github.com/NIK4658/SimRacing-RevLeds-1x8
 ## **3D MODELS IMAGES** 
 [//]: # (if necessary)
 
+### **REV LEDS**
 <p class="3D MODELS IMAGES" align="center">
-  <img align="center" src="./src/images/sampleImage.png" width="1000">
+  <img align="center" src="./src/images/3D%20Models/RevLeds/Screen2.png" width="260">
+  <img align="center" src="./src/images/3D%20Models/RevLeds/Screen3.png" width="260">
+  <img align="center" src="./src/images/3D%20Models/RevLeds/Screen1.png" width="260">
+</p>
+
+### **ARDUINO CASE**
+<p class="3D MODELS IMAGES" align="center">
+  <img align="center" src="./src/images/3D%20Models/ArduinoCase/ArduinoCase.png" width="400">
+  <img align="center" src="./src/images/3D%20Models/ArduinoCase/ArduinoCaseBack.png" width="400">
 </p>
 
 [//]: # (One or two images that contains multiple view of one or many 3D models)
@@ -88,6 +97,8 @@ Check the other version: ([1x8](https://github.com/NIK4658/SimRacing-RevLeds-1x8
 - 2 x (1x8) RGB LED Strip WS2812B (5V)
 - 1 x 3D Printed Led Strip Case *(Optional)*
 - 1 x 3D Printed Arduino Nano Case *(Optional)*
+- 2 x M6 bolt (20mm)
+- 2 x M6 nuts (20mm)
 
 **Necessary tools:**
 - Soldering Iron
